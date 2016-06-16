@@ -1,3 +1,3 @@
 # LeetCode
-This reposiory is about my solutions in LeetCode.
+This repository is about my solutions in LeetCode.
 
